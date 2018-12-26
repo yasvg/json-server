@@ -1,0 +1,9 @@
+{
+  "@odata.context":"http://elp-api.cert.boca.mcstrategies.com/$metadata#Users/$entity",
+  "UserId":"elsx3mobile2",
+  "FacilityCode":"All",
+  "IsSysAdmin":false,
+  "IsAnnotator":true,
+  "EPMHrAdmin":false,
+  "ChangeManager":false
+}

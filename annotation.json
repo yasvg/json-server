@@ -1,0 +1,228 @@
+{
+  "Users": {
+    "@odata.context": "http://elp-api.cert.boca.mcstrategies.com/$metadata#Users/$entity",
+    "UserId": "elsx3mobile2",
+    "FacilityCode": "All",
+    "IsSysAdmin": false,
+    "IsAnnotator": true,
+    "EPMHrAdmin": false,
+    "ChangeManager": false
+  },
+  "Annotations": [
+    {
+      "Title": "Vivek",
+      "Body": "<p>vivek</p>",
+      "FacilityCode": "All",
+      "LessonId": "CareAssist-68",
+      "EditedByUserId": "elsx3mobile2",
+      "AnnotationId": 1
+    },
+    {
+      "Title": "Vivek",
+      "Body": "<p>abcdefg</p>",
+      "FacilityCode": "All",
+      "LessonId": "CareAssist-68-4",
+      "EditedByUserId": "elsx3mobile2",
+      "LastEditDate": "",
+      "AnnotationId": 2
+    },
+    {
+      "Title": "assa",
+      "Body": "<p>sasas</p>",
+      "FacilityCode": "All",
+      "LessonId": "CareAssist-68-4",
+      "EditedByUserId": "elsx3mobile2",
+      "LastEditDate": "",
+      "AnnotationId": 3
+    },
+    {
+      "Title": "sd",
+      "Body": "<p>ssdsd</p>",
+      "FacilityCode": "All",
+      "LessonId": "CareAssist-68-4",
+      "EditedByUserId": "elsx3mobile2",
+      "LastEditDate": "",
+      "AnnotationId": 4
+    },
+    {
+      "Title": "sasas",
+      "Body": "<p>sasass</p>",
+      "FacilityCode": "All",
+      "LessonId": "CareAssist-68-4",
+      "EditedByUserId": "elsx3mobile2",
+      "LastEditDate": "",
+      "AnnotationId": 5
+    },
+    {
+      "Title": "abc",
+      "Body": "<p>abc</p>",
+      "FacilityCode": "All",
+      "LessonId": "CareAssist-68-4",
+      "EditedByUserId": "elsx3mobile2",
+      "LastEditDate": "",
+      "AnnotationId": 6
+    },
+    {
+      "Title": "asasas",
+      "Body": "<p>asasas</p>",
+      "FacilityCode": "All",
+      "LessonId": "CareAssist-68-4",
+      "EditedByUserId": "elsx3mobile2",
+      "LastEditDate": "",
+      "AnnotationId": 7
+    },
+    {
+      "Title": "as",
+      "Body": "<p>asas</p>",
+      "FacilityCode": "All",
+      "LessonId": "CareAssist-68-4",
+      "EditedByUserId": "elsx3mobile2",
+      "LastEditDate": "",
+      "AnnotationId": 8
+    },
+    {
+      "Title": "asas",
+      "Body": "<p>asas</p>",
+      "FacilityCode": "All",
+      "LessonId": "CareAssist-68-4",
+      "EditedByUserId": "elsx3mobile2",
+      "LastEditDate": "",
+      "AnnotationId": 9
+    },
+    {
+      "Title": "as",
+      "Body": "<p>Vivek</p>",
+      "FacilityCode": "All",
+      "LessonId": "CareAssist-68-4",
+      "EditedByUserId": "elsx3mobile2",
+      "LastEditDate": "",
+      "AnnotationId": 10
+    },
+    {
+      "Title": "sdas",
+      "Body": "<p>dsadsds</p>",
+      "FacilityCode": "All",
+      "LessonId": "CareAssist-68-4",
+      "EditedByUserId": "elsx3mobile2",
+      "LastEditDate": "",
+      "AnnotationId": 11
+    },
+    {
+      "Title": "asdds",
+      "Body": "<p>sdsdsdsd</p>",
+      "FacilityCode": "All",
+      "LessonId": "CareAssist-68-4",
+      "EditedByUserId": "elsx3mobile2",
+      "LastEditDate": "",
+      "AnnotationId": 12
+    },
+    {
+      "Title": "Vivek",
+      "Body": "<p>vivekrrrrr</p>",
+      "FacilityCode": "All",
+      "LessonId": "CareAssist-68-4",
+      "EditedByUserId": "elsx3mobile2",
+      "LastEditDate": "",
+      "AnnotationId": 13
+    },
+    {
+      "Title": "ABC",
+      "Body": "<p>abcd</p>",
+      "FacilityCode": "All",
+      "LessonId": "CareAssist-68-4",
+      "EditedByUserId": "elsx3mobile2",
+      "LastEditDate": "",
+      "AnnotationId": 14
+    },
+    {
+      "Title": "aaaaa",
+      "Body": "<p>bbbb</p>",
+      "FacilityCode": "All",
+      "LessonId": "CareAssist-68-4",
+      "EditedByUserId": "elsx3mobile2",
+      "LastEditDate": "",
+      "AnnotationId": 15
+    },
+    {
+      "Title": "zxzx",
+      "Body": "<p>zxzxzx</p>",
+      "FacilityCode": "All",
+      "LessonId": "CareAssist-68-4",
+      "EditedByUserId": "elsx3mobile2",
+      "LastEditDate": "",
+      "AnnotationId": 16
+    },
+    {
+      "Title": "asasas",
+      "Body": "<p>asasas</p>",
+      "FacilityCode": "All",
+      "LessonId": "CareAssist-68-4",
+      "EditedByUserId": "elsx3mobile2",
+      "LastEditDate": "",
+      "AnnotationId": 17
+    },
+    {
+      "Title": "sa",
+      "Body": "<p>sas</p>",
+      "FacilityCode": "All",
+      "LessonId": "CareAssist-68-4",
+      "EditedByUserId": "elsx3mobile2",
+      "LastEditDate": "",
+      "AnnotationId": 18
+    },
+    {
+      "Title": "gfjhgj",
+      "Body": "<p>ljh</p>",
+      "FacilityCode": "All",
+      "LessonId": "CareAssist-14-4",
+      "EditedByUserId": "elsx3mobile2",
+      "LastEditDate": "",
+      "AnnotationId": 19
+    },
+    {
+      "Title": "Viuvek",
+      "Body": "<p>kmdjdkdmdm</p>",
+      "FacilityCode": "All",
+      "LessonId": "CareAssist-14-4",
+      "EditedByUserId": "elsx3mobile2",
+      "LastEditDate": "",
+      "AnnotationId": 20
+    },
+    {
+      "Title": "asasas",
+      "Body": "<p>sasas</p>",
+      "FacilityCode": "All",
+      "LessonId": "CareAssist-14-4",
+      "EditedByUserId": "elsx3mobile2",
+      "LastEditDate": "",
+      "AnnotationId": 21
+    },
+    {
+      "Title": "asas",
+      "Body": "<p>sas</p>",
+      "FacilityCode": "All",
+      "LessonId": "CareAssist-14-4",
+      "EditedByUserId": "elsx3mobile2",
+      "LastEditDate": "",
+      "AnnotationId": 22
+    },
+    {
+      "Title": "asdd",
+      "Body": "<p>sdsdsd</p>",
+      "FacilityCode": "All",
+      "LessonId": "CareAssist-14-4",
+      "EditedByUserId": "elsx3mobile2",
+      "LastEditDate": "",
+      "AnnotationId": 23
+    },
+    {
+      "Title": "pagetwo",
+      "Body": "<p>pagetwo</p>",
+      "FacilityCode": "All",
+      "LessonId": "CareAssist-14-5",
+      "EditedByUserId": "elsx3mobile2",
+      "LastEditDate": "",
+      "AnnotationId": 24
+    }
+  ]
+}
